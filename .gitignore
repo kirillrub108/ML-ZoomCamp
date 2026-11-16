@@ -16,9 +16,6 @@ env/
 # Secrets
 .env
 
-# Datasets (downloaded, large)
-Homework 8/data/
-
 # Trained model weights
 *.pt
 *.pth
